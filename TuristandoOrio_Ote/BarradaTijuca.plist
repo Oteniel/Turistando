@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>barradatijuca</key>
+	<array>
+		<dict>
+			<key>nome</key>
+			<string>Bosque da Barra</string>
+			<key>descricao</key>
+			<string>Com caminhos de terra batida, o parque tem 550 mil metros quadrados de área e é disputado por quem gosta de andar de bicicleta, correr e caminhar.</string>
+			<key>tipodeponto</key>
+			<string>Praia</string>
+			<key>avaliacao</key>
+			<string>★★★★★</string>
+			<key>imagem</key>
+			<string>bosquedabarra</string>
+			<key>endereco</key>
+			<string>Km 6 da Avenida das Américas, Barra da Tijuca.
+
+Leia mais sobre esse assunto em http://oglobo.globo.com/rio/bairros/conheca-pontos-turisticos-inexplorados-da-barra-da-tijuca-4619534#ixzz4LcchQ0Sx 
+© 1996 - 2016. Todos direitos reservados a Infoglobo Comunicação e Participações S.A. Este material não pode ser publicado, transmitido por broadcast, reescrito ou redistribuído sem autorização. </string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Prainha</string>
+			<key>descricao</key>
+			<string>Protegida por morros cobertos pela Mata Atlântica, a Prainha tem apenas 700 metros de extensão e é a preferida dos surfistas.</string>
+			<key>tipodeponto</key>
+			<string>Praia</string>
+			<key>avaliacao</key>
+			<string>★★★★★</string>
+			<key>imagem</key>
+			<string>Prainha-RJ-44</string>
+			<key>endereco</key>
+			<string>Av. Estado da Guanabara, Barra da Tijuca - Rio de Janeiro</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Museu da CBF</string>
+			<key>descricao</key>
+			<string>O futebol chegou ao Brasil em 1894. Vinte anos depois a Seleção Brasileira de futebol fez sua primeira partida oficial e conquistou seu primeiro troféu, a Copa Roca.</string>
+			<key>tipodeponto</key>
+			<string>Museu </string>
+			<key>avaliacao</key>
+			<string>★★★★☆</string>
+			<key>imagem</key>
+			<string>museuCBF</string>
+			<key>endereco</key>
+			<string>CBF Brasil - Barra da Tijuca, Rio de Janeiro - RJ, 22775-055</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Sítio Burle Marx</string>
+			<key>descricao</key>
+			<string>Artes, esculturas e uma área verde com plantas tropicais adornam a antiga residência do famoso paisagista.</string>
+			<key>tipodeponto</key>
+			<string>Lazer</string>
+			<key>avaliacao</key>
+			<string>★★★★☆</string>
+			<key>imagem</key>
+			<string>sitioBurlemax</string>
+			<key>endereco</key>
+			<string>Estrada Roberto Burle Marx, 2019 - Barra Guaratiba, Rio de Janeiro - RJ, 23020-240</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Shopping VillageMall</string>
+			<key>descricao</key>
+			<string>Um shopping de luxo situado na Avenida das Américas, anexo ao Barra Shopping.</string>
+			<key>tipodeponto</key>
+			<string>Comércios</string>
+			<key>avaliacao</key>
+			<string>★★★★★</string>
+			<key>imagem</key>
+			<string>village_barra</string>
+			<key>endereco</key>
+			<string>Av. das Américas, 3900 - Barra da Tijuca, Rio de Janeiro - RJ, 22640-102</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Parque Olímpico</string>
+			<key>descricao</key>
+			<string>É um conjunto de instalações no Complexo Esportivo Cidade dos Esportes que foi expandido para sediar os Jogos Olímpicos de Verão de 2016 na cidade do Rio de Janeiro.</string>
+			<key>tipodeponto</key>
+			<string>Atividade esportivas</string>
+			<key>avaliacao</key>
+			<string>★★★★☆</string>
+			<key>imagem</key>
+			<string>parqueolimpicobarra</string>
+			<key>endereco</key>
+			<string>Av. Embaixador Abelardo Bueno, 3401 - Barra da Tijuca, Rio de Janeiro - RJ, 22775-039
+Av. Embaixador Abelardo Bueno, 3401 - Barra da Tijuca, Rio de Janeiro - RJ, 22775-039
+Av. Embaixador Abelardo Bueno, 3401 - Barra da Tijuca, Rio de Janeiro - RJ, 22775-039</string>
+		</dict>
+	</array>
+</dict>
+</plist>

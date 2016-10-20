@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ipanema</key>
+	<array>
+		<dict>
+			<key>nome</key>
+			<string>Praia de Ipanema</string>
+			<key>descricao</key>
+			<string>A praia de Ipanema localiza-se na zona Sul da cidade do Rio de Janeiro, no Brasil. Ela tem 2,6 km de extensão e fica perto do bairro Leblon que é um complemento dela.</string>
+			<key>tipodeponto</key>
+			<string>Praia</string>
+			<key>avaliacao</key>
+			<string>★★★★★</string>
+			<key>imagem</key>
+			<string>praia_de_ipanema.JPG</string>
+			<key>endereco</key>
+			<string> Av. Vieira Souto, S/N - Ipanema, Rio de Janeiro - RJ</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Comércio de Ipanema</string>
+			<key>descricao</key>
+			<string>Ipanema sempre foi uma incubadora de tendências – de hábitos gastronômicos à moda - que foram exportadas para as outras partes do Rio e do mundo.</string>
+			<key>tipodeponto</key>
+			<string>Comércios</string>
+			<key>avaliacao</key>
+			<string>★★★★★</string>
+			<key>imagem</key>
+			<string>garotadeipanema</string>
+			<key>endereco</key>
+			<string>R. Visc. de Pirajá, Rio de Janeiro</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Posto 10</string>
+			<key>descricao</key>
+			<string>O Posto 10 é o melhor Point da praia de Ipanema! Conheça o Posto 10 e todas as facilidades que disponibilizamos para você!</string>
+			<key>tipodeponto</key>
+			<string>Praia</string>
+			<key>avaliacao</key>
+			<string>★★★★★</string>
+			<key>imagem</key>
+			<string>posto10ipanema</string>
+			<key>endereco</key>
+			<string> Av. Vieira Souto, S/N - Ipanema, Rio de Janeiro - RJ</string>
+		</dict>
+	</array>
+</dict>
+</plist>

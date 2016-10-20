@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>copacabana</key>
+	<array>
+		<dict>
+			<key>nome</key>
+			<string>Forte de Copacabana</string>
+			<key>descricao</key>
+			<string>O Forte de Copacabana localiza-se na ponta de Copacabana, ao final da praia e bairro de mesmo nome, na cidade do Rio de Janeiro, no Brasil.</string>
+			<key>tipodeponto</key>
+			<string>Histórico</string>
+			<key>avaliacao</key>
+			<string>★★★★☆</string>
+			<key>imagem</key>
+			<string>forte_de_copacabana.jpg</string>
+			<key>endereco</key>
+			<string> Av. Atlântica, Posto 6 - Copacabana, Rio de Janeiro - RJ, 22070-020</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Copacabana Palace</string>
+			<key>descricao</key>
+			<string>O Hotel Copacabana Palace é um luxuoso e famoso hotel localizado em frente à Praia de Copacabana, na cidade do Rio de Janeiro, Brasil.</string>
+			<key>tipodeponto</key>
+			<string>Hospedagem</string>
+			<key>avaliacao</key>
+			<string>★★★★★</string>
+			<key>imagem</key>
+			<string>Copacabanapalace</string>
+			<key>endereco</key>
+			<string> Av. Atlântica, 1702 - Copacabana, Rio de Janeiro - RJ, 22021-001</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Praia de Copacabana</string>
+			<key>descricao</key>
+			<string>Considerada uma das praias mais famosas do mundo, foi popularmente apelidada de &quot;Princesinha do Mar&quot;.</string>
+			<key>tipodeponto</key>
+			<string>Praias</string>
+			<key>avaliacao</key>
+			<string>★★★★☆</string>
+			<key>imagem</key>
+			<string>copacabana_beach_rio.jpg</string>
+			<key>endereco</key>
+			<string>Av. Atlântica, S/N - Copacabana, Rio de Janeiro - RJ, 22010-000</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Calçadão de Copacabana</string>
+			<key>descricao</key>
+			<string>O calçadão de Copa tem cerca de 4,15 Km e percorre as praias do Leme e de Copacabana.</string>
+			<key>tipodeponto</key>
+			<string>Quiósques e praia.</string>
+			<key>avaliacao</key>
+			<string>★★★★★</string>
+			<key>imagem</key>
+			<string>calcadaodecopacabana</string>
+			<key>endereco</key>
+			<string>Av. Atlântica, S/N - Copacabana, Rio de Janeiro - RJ, 22010-000</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Reveillon </string>
+			<key>descricao</key>
+			<string>O Réveillon de Copacabana é a maior festa de ano novo, não só no Rio de Janeiro, mas de todo o Brasil.</string>
+			<key>tipodeponto</key>
+			<string>Fogos de artifíces</string>
+			<key>avaliacao</key>
+			<string>★★★★☆</string>
+			<key>imagem</key>
+			<string>reveillondecopacabana</string>
+			<key>endereco</key>
+			<string>Av. Atlântica, S/N - Copacabana, Rio de Janeiro - RJ, 22010-000</string>
+		</dict>
+	</array>
+</dict>
+</plist>

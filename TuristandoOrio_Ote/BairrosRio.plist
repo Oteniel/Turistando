@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bairrosrio</key>
+	<array>
+		<dict>
+			<key>nome</key>
+			<string>Cristo Redentor</string>
+			<key>descricao</key>
+			<string>A verdadeira representação do Brasileiro sempre de braços e pernas abertos! que venha o turista!</string>
+			<key>imagem</key>
+			<string>cristo_redentor_rj.jpg</string>
+			<key>tipodeponto</key>
+			<string>Passeio</string>
+			<key>avaliacao</key>
+			<string>★★★★★</string>
+			<key>endereco</key>
+			<string>Parque Nacional da Tijuca - Alto da Boa Vista, Rio de Janeiro - RJ</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Pão de Açúcar</string>
+			<key>descricao</key>
+			<string>Pão de Açúcar é um complexo de morros localizado no bairro da Urca é composto pelo morro do Pão de Açúcar, morro da Urca e morro da Babilônia.</string>
+			<key>tipodeponto</key>
+			<string>Passeio de Bonde</string>
+			<key>avaliacao</key>
+			<string>★★★★★</string>
+			<key>imagem</key>
+			<string>pao_de_acucar.jpg</string>
+			<key>endereco</key>
+			<string>Avenida Pasteur, 520 – Urca – Rio de Janeiro</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Jardim Botânico</string>
+			<key>descricao</key>
+			<string>Um instituto de pesquisas e jardim botânico localizado no bairro do Jardim Botânico, na zona sul do município do Rio de Janeiro, no Brasil</string>
+			<key>tipodeponto</key>
+			<string>Jardins científicos</string>
+			<key>avaliacao</key>
+			<string>★★★★☆</string>
+			<key>imagem</key>
+			<string>jardim_botanico.jpeg</string>
+			<key>endereco</key>
+			<string>R. Jardim Botânico, 1008 - Jardim Botânico, Rio de Janeiro - RJ, 22460-030</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Biblioteca Nacional</string>
+			<key>descricao</key>
+			<string>Biblioteca Nacional, também chamada de Biblioteca Nacional do Brasil, cujo nome oficial institucional é Fundação Biblioteca Nacional, é a depositária do patrimônio bibliográfico e documental do Brasil.</string>
+			<key>tipodeponto</key>
+			<string>Pesquisas</string>
+			<key>avaliacao</key>
+			<string>★★★★☆</string>
+			<key>imagem</key>
+			<string>biblioteca_nacional_rio_janeiro.jpg</string>
+			<key>endereco</key>
+			<string>Av. Rio Branco, 219 - Centro, Rio de Janeiro - RJ, 20040-009</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Arcos da Lapa</string>
+			<key>descricao</key>
+			<string>Considerada como a obra arquitetônica de maior porte empreendida no Brasil durante o período colonial.</string>
+			<key>tipodeponto</key>
+			<string>Gastronomia e boates</string>
+			<key>avaliacao</key>
+			<string>★★★☆☆</string>
+			<key>imagem</key>
+			<string>lapaarcos</string>
+			<key>endereco</key>
+			<string> Lapa, Rio de Janeiro - RJ, 20031-040</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Santa Teresa</string>
+			<key>descricao</key>
+			<string>Possui uma exclusiva localização, no alto de uma serra entre as zonas Sul e Central da cidade, que promove uma privilegiada vista para essas áreas.</string>
+			<key>tipodeponto</key>
+			<string>Passeio</string>
+			<key>avaliacao</key>
+			<string>★★★★☆</string>
+			<key>imagem</key>
+			<string>bonde_santa_teresa_rj.jpg</string>
+			<key>endereco</key>
+			<string>Rua Áurea, Rio de Janeiro, Estado do Rio de Janeiro 20240-210, Brasil</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Catedral de São Sebastião</string>
+			<key>descricao</key>
+			<string>A Catedral de São Sebastião do Rio de Janeiro, também conhecida como Catedral Metropolitana do Rio de Janeiro, é uma catedral católica localizada no Centro da cidade do Rio de Janeiro, no Brasil.</string>
+			<key>tipodeponto</key>
+			<string>Igreja</string>
+			<key>avaliacao</key>
+			<string>★★★☆☆</string>
+			<key>imagem</key>
+			<string>catedral_de_sao_sebastiao_rj.jpg</string>
+			<key>endereco</key>
+			<string>Av. Chile, 245 - Centro, Rio de Janeiro - RJ, 20031-170</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Estádio do Engenhão</string>
+			<key>descricao</key>
+			<string>O Estádio Olímpico João Havelange ou simplesmente Engenhão, agora conhecido como Estádio Nilton Santos.</string>
+			<key>tipodeponto</key>
+			<string>Estádio</string>
+			<key>avaliacao</key>
+			<string>★★★★☆</string>
+			<key>imagem</key>
+			<string>estadio_do_engenhao_rj.jpg</string>
+			<key>endereco</key>
+			<string>R. José dos Reis, 425 - Engenho de Dentro, Rio de Janeiro - RJ, 20770-001</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Estádio Maracanã</string>
+			<key>descricao</key>
+			<string>Estádio Jornalista Mário Filho, mais conhecido como Maracanã, o popular Maraca, é um estádio de futebol localizado no Rio de Janeiro e inaugurado em 1950.</string>
+			<key>tipodeponto</key>
+			<string>Estádio</string>
+			<key>avaliacao</key>
+			<string>★★★★★</string>
+			<key>imagem</key>
+			<string>estadio_do_maracana_rj.jpg</string>
+			<key>endereco</key>
+			<string>Av. Pres. Castelo Branco, Portão 3 - Maracanã, Rio de Janeiro - RJ, 20271-130</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Floresta da Tijuca</string>
+			<key>descricao</key>
+			<string>A Floresta da Tijuca é um dos quatro setores em que se divide o Parque Nacional da Tijuca, no município do Rio de Janeiro, no Brasil.</string>
+			<key>tipodeponto</key>
+			<string>Trilha ecológica</string>
+			<key>avaliacao</key>
+			<string>★★★★★</string>
+			<key>imagem</key>
+			<string>floresta_da_tijuca.jpg</string>
+			<key>endereco</key>
+			<string>Estrada da cascatinha, 850 - Alto da Boa Vista - CEP: 20.531-590 </string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Lagoa  Rodrigues de Freitas</string>
+			<key>descricao</key>
+			<string>A Lagoa Rodrigo de Freitas é um dos mais belos cartões postais do Rio de Janeiro.</string>
+			<key>tipodeponto</key>
+			<string>Ciclovias e caminhadas</string>
+			<key>avaliacao</key>
+			<string>★★★☆☆</string>
+			<key>imagem</key>
+			<string>lagoa_rodrigues_de_freitas.jpg</string>
+			<key>endereco</key>
+			<string>Av. Borges de Medeiros, 1846-1890 - Lagoa, Rio de Janeiro - RJ</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Vista Chinesa</string>
+			<key>descricao</key>
+			<string>O mirante da Vista Chinea, situado na Floresta da Tijuca proporciona uma linda vista da zona sul do Rio de Janeiro.</string>
+			<key>tipodeponto</key>
+			<string>Passeio Ecológico</string>
+			<key>avaliacao</key>
+			<string>★★★★★</string>
+			<key>imagem</key>
+			<string>vista_chinesa_parq_nac_tijuca.jpg</string>
+			<key>endereco</key>
+			<string>Estr. da Vista Chinesa, 1294 - Alto da Boa Vista, Rio de Janeiro - RJ</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Museu do Amanhã</string>
+			<key>descricao</key>
+			<string>Museu do Amanhã é um museu construído no município do Rio de Janeiro, Brasil. O prédio, projeto do arquiteto espanhol Santiago Calatrava, foi erguido ao lado da Praça Mauá, na zona portuária.</string>
+			<key>tipodeponto</key>
+			<string>Lazer</string>
+			<key>avaliacao</key>
+			<string>★★★★☆</string>
+			<key>imagem</key>
+			<string>museu_do_amanha.jpg</string>
+			<key>endereco</key>
+			<string> Praça Mauá, 1 - Centro, Rio de Janeiro - RJ, 20081-262</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Museu Nacional Belas Artes</string>
+			<key>descricao</key>
+			<string>O Museu Nacional de Belas Artes é um museu de arte localizado na cidade do Rio de Janeiro, no Brasil. É um dos mais importantes museus do gênero no país.</string>
+			<key>tipodeponto</key>
+			<string>Museu</string>
+			<key>avaliacao</key>
+			<string>★★★★★</string>
+			<key>imagem</key>
+			<string>museu_nacional_de_belas_artes.jpg</string>
+			<key>endereco</key>
+			<string>Av. Rio Branco, 199 - Centro, Rio de Janeiro - RJ, 20040-008</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Palácio do Catete</string>
+			<key>descricao</key>
+			<string>O Palácio do Catete localiza-se no bairro do Catete, no município do Rio de Janeiro, no Brasil. Foi a sede do poder executivo brasileiro de 1897 a 1960.</string>
+			<key>tipodeponto</key>
+			<string>Histórico</string>
+			<key>avaliacao</key>
+			<string>★★★☆☆</string>
+			<key>imagem</key>
+			<string>palaciodocatete</string>
+			<key>endereco</key>
+			<string>R. do Catete, 153 - Catete, Rio de Janeiro - RJ, 22220-000</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Parque Lage</string>
+			<key>descricao</key>
+			<string>O Parque Henrique Lage é um parque público da cidade do Rio de Janeiro, localizado aos pés do morro do Corcovado, à rua Jardim Botânico.</string>
+			<key>tipodeponto</key>
+			<string>Passeio ecológico</string>
+			<key>avaliacao</key>
+			<string>★★★★☆</string>
+			<key>imagem</key>
+			<string>parque_lage_rj.jpeg</string>
+			<key>endereco</key>
+			<string>R. Jardim Botânico, 414 - Jardim Botânico, Rio de Janeiro - RJ, 22461-000</string>
+		</dict>
+	</array>
+</dict>
+</plist>

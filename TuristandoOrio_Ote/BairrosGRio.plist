@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bairrosgrio</key>
+	<array>
+		<dict>
+			<key>nome</key>
+			<string>Museu Imperial</string>
+			<key>descricao</key>
+			<string>O Museu Imperial, popularmente conhecido como Palácio Imperial, é um museu histórico-temático localizado no centro histórico da cidade de Petrópolis.</string>
+			<key>tipodeponto</key>
+			<string>Cultural</string>
+			<key>avaliacao</key>
+			<string>★★★★☆</string>
+			<key>imagem</key>
+			<string>museu_imperial_petropolis_rj.jpg</string>
+			<key>endereco</key>
+			<string>Rua da Imperatriz, 220 - Centro, Petrópolis - RJ, 25610-320</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Armação dos Búzios</string>
+			<key>descricao</key>
+			<string>Armação dos Búzios é um lindo recanto turístico, localizado na zona tropical do subcontinente sul-americano, banhado pelas águas do Oceano Atlântico, ensolarado em grande parte do ano e habitado por gente aprazível de todos os recantos do planeta que desfrutam de suas 23 praias.</string>
+			<key>tipodeponto</key>
+			<string>Lazer</string>
+			<key>avaliacao</key>
+			<string>★★★★★</string>
+			<key>imagem</key>
+			<string>criancanosossosbuzios</string>
+			<key>endereco</key>
+			<string>Armação de Búzios, s/n – Búzios - RJ</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Centro Búzios</string>
+			<key>descricao</key>
+			<string>Ícone de Búzios, a Rua das Pedras é o retrato do glamour do balneário. Com pouco mais de 600 metros de extensão, a &quot;passarela&quot; reúne bares transados.</string>
+			<key>tipodeponto</key>
+			<string>Praias</string>
+			<key>avaliacao</key>
+			<string>★★★★★</string>
+			<key>imagem</key>
+			<string>buzios_rua_das_pedras_rj</string>
+			<key>endereco</key>
+			<string>Rua das pedras, s/n - Búzios - RJ,  28950-000</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Museu da Arte Contemporânea</string>
+			<key>descricao</key>
+			<string>Museu de Arte Contemporânea de Niterói localizado na cidade de Niterói, Rio de Janeiro. A obra foi inaugurada no dia 2 de setembro de 1996. Projetado pelo arquiteto Oscar Niemeyer, o MAC tornou-se um dos cartões-postais de Niterói.</string>
+			<key>tipodeponto</key>
+			<string>Cultural</string>
+			<key>avaliacao</key>
+			<string>★★★★☆</string>
+			<key>imagem</key>
+			<string>museu_da_arte_contemporanea_rj.jpeg</string>
+			<key>endereco</key>
+			<string> Mirante da Boa Viagem, s/nº - Boa Viagem, Niterói - RJ, 24210-390</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Mosteiro de São Bento</string>
+			<key>descricao</key>
+			<string>É um dos principais monumentos de arte colonial da cidade e do país.</string>
+			<key>tipodeponto</key>
+			<string>Cultural</string>
+			<key>avaliacao</key>
+			<string>★★☆☆☆</string>
+			<key>imagem</key>
+			<string>mosteiro_de_sao_bento_rj.jpg</string>
+			<key>endereco</key>
+			<string>Av. dos Imigrantes, 480 - Jardim Junco, Vinhedo - SP, 13280-000</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Lagoa azul - Ilha Grande</string>
+			<key>descricao</key>
+			<string>A Lagoa Azul é um dos passeios mais frequentados na Ilha Grande. Local de águas rasas, tranquilas e azuis, excelente para flutuação e pratica de snorkel. </string>
+			<key>tipodeponto</key>
+			<string>Mergulho</string>
+			<key>avaliacao</key>
+			<string>★★★★★</string>
+			<key>imagem</key>
+			<string>lagoa_azul_ilha_grande_rj.jpg</string>
+			<key>endereco</key>
+			<string>Angra dos Reis - RJ, 23968-000</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Praia Barra da Tijuca</string>
+			<key>descricao</key>
+			<string>A praia da Barra da Tijuca é a principal praia da região da Barra da Tijuca e estende-se ao longo da avenida Sernambetiba até o Recreio dos Bandeirantes. É a maior praia do estado do Rio de Janeiro, com dezoito quilômetros de comprimento.</string>
+			<key>tipodeponto</key>
+			<string>Lazer</string>
+			<key>avaliacao</key>
+			<string>★★★★★</string>
+			<key>imagem</key>
+			<string>praia_barra_da_tijuca.jpg</string>
+			<key>endereco</key>
+			<string>Avenida Sernambetiba, - Barra da Tijuca (Zona Oeste) - Rio de Janeiro.</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Praia de Grumari</string>
+			<key>descricao</key>
+			<string>A praia de Grumari é uma praia da região da Barra da Tijuca, na zona Oeste da cidade do Rio de Janeiro, Brasil. Com aproximadamente 2,5 km de extensão, localiza-se a cerca de 20 quilômetros do centro da Barra.</string>
+			<key>tipodeponto</key>
+			<string>Lazer</string>
+			<key>avaliacao</key>
+			<string>★★★★★</string>
+			<key>imagem</key>
+			<string>praia_de_grumari_rj.jpg</string>
+			<key>endereco</key>
+			<string>Av. Estado da Guanabara - Grumari, Rio de Janeiro - RJ, 23020-240</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Praia Recreio dos Bandeirantes</string>
+			<key>descricao</key>
+			<string>A Praia do Recreio dos Bandeirantes fica localizada no final da Avenida Sernambetiba, continuação da Barra da Tijuca, sendo uma praia bastante freqüentada, principalmente por surfistas.</string>
+			<key>tipodeponto</key>
+			<string>Lazer</string>
+			<key>avaliacao</key>
+			<string>★★★★★</string>
+			<key>imagem</key>
+			<string>praiadamacumbasurf</string>
+			<key>endereco</key>
+			<string>Av. lúcio Costa, posto 10 - Recreio dos bandeirantes - RJ</string>
+		</dict>
+	</array>
+</dict>
+</plist>
